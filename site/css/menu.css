@@ -6,7 +6,6 @@ color: #000000;
 /********** Base styles **********/
 * {
 box-sizing: border-box;
-font-family: Helvetica;
 }
 
 h1 {
