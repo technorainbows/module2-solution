@@ -63,6 +63,21 @@ clear:both;
 }
 
 
+#chicken {
+    background-color:pink;
+}
+
+#beef {
+
+    background-color:red; 
+    color:white
+
+}
+
+#sushi {
+    background-color:beige
+}
+
 /************* Responsive Framework *********/
 .row {
 width: 100%;
