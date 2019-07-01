@@ -79,9 +79,6 @@ clear:both;
 }
 
 /************* Responsive Framework *********/
-.row {
-width: 100%;
-}
 
 /************ Desktop view: 992px and above ***********/ 
 /* Each of the 3 sections should take up equal amount of space on the screen. 
